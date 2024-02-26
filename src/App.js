@@ -7,7 +7,7 @@ import MovieCard from "./MovieCard";
 
 // fde738ee1f6534d701eb0ed70b0a07f4 from TMDB
 
-const API_URL = "http://www.omdbapi.com?apikey=83b5e65b";
+const API_URL = "https://www.omdbapi.com?apikey=83b5e65b";
 
 // const API_URL = "https://api.themoviedb.org/3/movie/11?api_key=fde738ee1f6534d701eb0ed70b0a07f4";
 
